@@ -1,4 +1,5 @@
-# skill80
+安全無毒，原始碼都在上面那個GUI.py的檔案裡
+
 使用教學:
 1. 到這個網址https://github.com/JACK900727/Eprofolio-robotdog/releases
 2. 下載名為default.zip的檔案
