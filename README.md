@@ -1,5 +1,7 @@
 安全無毒，原始碼都在上面那個GUI.py的檔案裡
 
+Indication: 想快速填臨床80項技能的人（未來或許會新增填寫eprofolio機器人）
+
 使用教學:
 1. 到這個網址https://github.com/JACK900727/Eprofolio-robotdog/releases
 2. Asset欄位點開，下載裡面名為default.zip的檔案
