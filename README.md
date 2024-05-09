@@ -12,3 +12,6 @@ Indication: 想快速填臨床80項技能的人（未來或許會新增填寫epr
 7. 點仍要執行
 8. 輸入帳號密碼後點按鈕
 9. 會開啟一個chrome視窗 此時可以切回去原本那個程式追蹤填寫進度
+
+
+有什麼問題歡迎到https://github.com/JACK900727/Eprofolio-robotdog/issues 這裡報錯 有空我就會處理XD
