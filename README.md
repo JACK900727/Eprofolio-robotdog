@@ -4,14 +4,18 @@ Indication:
 1.想快速填臨床80項技能的人
 2.想快速填寫eprofolio的人
 
+Contraindication:
+1.MAC使用者
+
 使用教學:
-1. 到這個網址https://github.com/JACK900727/Eprofolio-robotdog/releases
-2. Asset欄位點開，下載裡面名為default.zip的檔案
-3. 解壓縮
-4. 點進去之後執行有一個檔案叫做<幾田的機器狗.exe>
-5. 會跳出一個通知說:windows已保護您的電腦
-6. 點其他資訊
-7. 點仍要執行
+1. 把chrome更新到最新版
+2. 到這個網址https://github.com/JACK900727/Eprofolio-robotdog/releases
+3. Asset欄位點開，下載裡面名為default.zip的檔案
+4. 解壓縮
+6. 點進去之後執行有一個檔案叫做<幾田的機器狗.exe>
+7. 會跳出一個通知說:windows已保護您的電腦
+8. 點其他資訊
+9. 點仍要執行
  
 若填寫80項技能僅需輸入自己帳號密碼後點Skill80按鈕即可
 會開啟一個chrome視窗 此時可以切回去原本那個程式追蹤填寫進度
