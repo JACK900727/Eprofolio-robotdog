@@ -5,7 +5,7 @@ Indication:
 2.想快速填寫eprofolio的人
 
 Contraindication:
-1.MAC使用者
+1.Mac使用者
 
 使用教學:
 1. 把chrome更新到最新版
